@@ -1,0 +1,64 @@
+:root{
+    
+    --primero : #40e0d0;
+    --segundo : #e581bf;
+    --tercero : #f0d266;
+    
+}
+
+.header{
+    background-color: var(--primero);
+    text-align: center;
+
+
+}
+body {
+    background-color: #c8ddd7;
+}
+
+.header2{
+    background-color: var(--segundo);
+    text-align: center;
+
+
+}
+
+.header3{
+    background-color: var(--tercero);
+    text-align: center;
+
+
+}
+
+
+
+.cent {
+    text-align: center;
+}
+
+
+
+.cent-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.int {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+    text-align: center;
+}
+
+.int2 {
+    flex: 1; 
+    margin: 0 20px; 
+}
+
+
+
+
+
